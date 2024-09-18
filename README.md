@@ -15,11 +15,20 @@
 # **演示**
 运行软件会提示， 并且属性会在面板中展示
 
-![1726301674538.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/7c3470a95c4d413992b5cbac25dee54e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeGlhb2t5bw==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDQwNjQ5ODMzNjk4NTIyMyJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1726388099&x-orig-sign=kAmO%2FI6kZuTp4g3M74WeR%2BxQmVU%3D)
+![image](https://github.com/user-attachments/assets/bedd0375-7882-423a-bec9-e7f18aaf7896)
+
 
 这个软件只改了提升当前攻击的1.2倍， 所以不会影响太多体验
 
-![4cfb658953b28dd4e66eb16174ea29f.jpg](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/f57a9bf1241542fda5fcc2ffca2ec189~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeGlhb2t5bw==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDQwNjQ5ODMzNjk4NTIyMyJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1726387263&x-orig-sign=0PaEwalyyGPEE9qG9T2ICuASnlM%3D)
+![image](https://github.com/user-attachments/assets/4f72749a-6129-4083-b491-372a349c1388)
+
+# 如何自己修改并编译.exe文件(需要rust编译环境)
+1. clone本项目
+2. cargo build
+
+目标文件在target目录里
+
+
 
 Cargo.toml
 
